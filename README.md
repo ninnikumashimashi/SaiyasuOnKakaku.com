@@ -1,3 +1,3 @@
 # SaiyasuOnKakaku.com
 価格.comから最安を拾ってくるGAS  
-<img src=https://user-images.githubusercontent.com/47170845/57147376-641b2000-6e02-11e9-909e-d86e143295c6.png>
+![check_price](https://user-images.githubusercontent.com/47170845/81544118-04ab0500-93b2-11ea-864e-c8c7a784feb8.gif)
